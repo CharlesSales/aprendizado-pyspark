@@ -29,7 +29,7 @@ Cada pasta contém um projeto independente, com dados reais, código comentado e
 
 ## 🧪 Tecnologias Utilizadas
 
-- Python 3.x
+- Python 3
 - Apache Spark (PySpark)
 - Google Colab
 - Git e GitHub
